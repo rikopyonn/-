@@ -1,0 +1,380 @@
+body {
+	background-color: #f8e9c0;
+}
+
+
+.ヘッダー画像 {
+	position: fixed;
+	top: 10px;
+	left: 40px;
+	cursor: pointer;
+}
+
+.ヘッダー {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: #fdf4eb;
+	width: 100%;
+	padding: 40px;
+}
+
+.トップ画像 {
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	margin-bottom: 120px;
+}
+
+.ヘッダー1 {
+	position: fixed;
+	top: 25px;
+	right: 55px;
+	cursor: pointer;
+	font-family: TsukuARdGothic-Bold;
+	color: #a37972;
+	font-size: 20px;
+}
+
+.ヘッダー2 {
+	position: fixed;
+	top: 25px;
+	right: 143px;
+	cursor: pointer;
+	font-family: TsukuARdGothic-Bold;
+	color: #a37972;
+	font-size: 20px;
+}
+
+.ヘッダー3 {
+	position: fixed;
+	top: 25px;
+	right: 247px;
+	cursor: pointer;
+	font-family: TsukuARdGothic-Bold;
+	color: #a37972;
+	font-size: 20px;
+}
+
+.ヘッダー4 {
+	position: fixed;
+	top: 25px;
+	right: 377px;
+	cursor: pointer;
+	font-family: TsukuARdGothic-Bold;
+	color: #a37972;
+	font-size: 20px;
+}
+
+.プロフ {
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+	line-height: 38px;
+}
+
+
+
+.タイトル1 {
+	text-align: center;
+	font-size: 90px;
+	padding: 100px;
+	font-family: "Arial Black";
+	color: #a37972;
+	letter-spacing: 7px;
+}
+
+.説明 {
+	text-align: center;
+	line-height: 2.5;
+	margin-bottom: 180px;
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+
+
+}
+
+.タイトル2 {
+	text-align: center;
+	font-size: 90px;
+	padding: 100px;
+	font-family: "Arial Black";
+	color: #a37972;
+	letter-spacing: 7px;
+}
+
+.一列 {
+	display: flex;
+	gap: 7px;
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+.２列 {
+	display: flex;
+	gap: 7px;
+	justify-content: center;
+	margin-bottom: 200px;
+}
+
+.名前 {
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	color: #a37972;
+	font-family: TsukuARdGothic-Bold;
+	font-size: 23px;
+}
+
+
+.その1 {
+	padding: 20px;
+
+	text-align: center;
+
+}
+
+.その2 {
+	padding: 20px;
+
+	text-align: center;
+}
+
+.その3 {
+	padding: 20px;
+
+	text-align: center;
+}
+
+.その4 {
+	padding: 20px;
+
+	text-align: center;
+}
+
+.その5 {
+	padding: 20px;
+
+	text-align: center;
+}
+
+.その6 {
+	padding: 20px;
+
+	text-align: center;
+}
+
+.その7 {
+	padding: 20px;
+
+	text-align: center;
+}
+
+.その8 {
+	padding: 20px;
+
+	text-align: center;
+}
+
+
+
+.世界の紹介 {
+	font-size: 90px;
+	text-align: center;
+	padding: 80px;
+	font-family: "Arial Black";
+	color: #a37972;
+	letter-spacing: 7px;
+}
+
+
+.世界1 {
+	font-size: 30px;
+	color: #a37972;
+	font-family: TsukuARdGothic-Bold;
+}
+
+.世界2 {
+	font-size: 30px;
+	color: #a37972;
+	font-family: TsukuARdGothic-Bold;
+}
+
+.世界3 {
+	font-size: 30px;
+	color: #a37972;
+	font-family: TsukuARdGothic-Bold;
+}
+
+.世界4 {
+	font-size: 30px;
+	color: #a37972;
+	font-family: TsukuARdGothic-Bold;
+}
+
+.世界の紹介1 {
+	display: flex;
+	gap: 50px;
+	justify-content: center;
+
+}
+
+.見どころ1 {
+	text-align: center;
+}
+
+.説明1 {
+	line-height: 2;
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+	line-height: 2.5;
+}
+
+
+.世界の紹介2 {
+	display: flex;
+	gap: 50px;
+	justify-content: center;
+	padding: 100px;
+}
+
+.見どころ2 {
+	text-align: center;
+}
+
+.説明2 {
+	line-height: 2;
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+	line-height: 2.5;
+}
+
+
+.世界の紹介3 {
+	display: flex;
+	gap: 50px;
+	justify-content: center;
+}
+
+.見どころ3 {
+	text-align: center;
+}
+
+.説明3 {
+	line-height: 2;
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+	line-height: 2.5;
+}
+
+
+.世界の紹介4 {
+	display: flex;
+	gap: 50px;
+	justify-content: center;
+	padding: 100px;
+	margin-bottom: 100px;
+}
+
+.見どころ4 {
+	text-align: center;
+}
+
+.説明4 {
+	line-height: 2;
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+	line-height: 2.5;
+}
+
+
+.ギャラリー {
+	text-align: center;
+	font-size: 90px;
+	padding: 90px;
+	font-family: "Arial Black";
+	color: #a37972;
+	letter-spacing: 7px;
+}
+
+.カルーセル4 {
+	width: 800px;
+	margin: 0 auto 0 auto;
+	margin-bottom: 200px;
+
+}
+
+
+.カルーセル4 img {
+	width: 100%;
+
+}
+
+
+.カルーセル4 .slick-arrow::before {
+	color: #a37972;
+
+	font-size: -100px;
+
+
+}
+
+
+
+.ニュース {
+	text-align: center;
+	font-size: 80px;
+	padding: 70px;
+	font-family: "Arial Black";
+	color: #a37972;
+	letter-spacing: 7px;
+
+}
+
+.の1 {
+	padding: 20px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.の2 {
+	padding: 20px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.の3 {
+	padding: 20px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.列 {
+	display: flex;
+	gap: 7px;
+	justify-content: center;
+	margin-bottom: 120px;
+}
+
+.下画像 {
+	position: relative;
+}
+
+
+.情報 {
+	position: absolute;
+	bottom: 60px;
+	left: 530px;
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+.情報1 {
+	position: absolute;
+	bottom: 85px;
+	left: 535px;
+	color: #a37972;
+	font-family: TsukuARdGothic-Regular;
+	font-size: 15px;
+	cursor: pointer;
+}
